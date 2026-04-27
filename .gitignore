@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Banco de dados local
+rotina.db
+rotina.db-journal
+
+# Build
+build/
+dist/
+*.spec
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentos privados
+docs/privado/
+contrato.md
+*.pdf
+
+# Testes temporários
+test_*.py
+create_icon.py
